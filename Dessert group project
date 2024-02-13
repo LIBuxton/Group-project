@@ -1,0 +1,107 @@
+Dessert.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles.css">
+  <title>Desserts</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
+
+</head>
+<body>
+
+<header class="top-header">
+  <h1 class="logo">
+    <a href="#">
+        Add logo image
+
+    </h1>
+</header>
+
+<header class="header">
+    <div class="topnav-centered">
+      <div class="topnav-right">
+        <a href="#" class="hoverable-link">HOME</a>
+        <a href="#" class="hoverable-link">LOCATIONS</a>
+        <a href="#" class="hoverable-link">MENUS</a>
+        <a href="#" class="hoverable-link">ABOUT US</a>
+      </div>
+    </div>
+  </header>
+  
+  <div class="background-image">
+    <img src="logo.jpg" alt="aneta-voborilova-RQYAbzj-CK6k-unsplash" border="0" style="width: 100%; height: 300px; object-fit: cover;"></a>
+    <div class="overlay"></div>
+     <a href="#menu-section"><h2 class="menu-text">MENU</h2></a>
+  </div>
+  
+  <!-- Rest of your content -->
+  
+  <section id="menu-section">
+
+    Add menu section
+
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+<footer class="footer">
+ <div class="container">
+    <div class="footer-columns">
+      <div class="footer-column">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Locations</a></li>
+          <li><a href="#">Menus</a></li>
+          <li><a href="#">About Us</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+             <ul>
+          <li><a href="#">Giftcards</a></li>
+          <li><a href="#">Retail</a></li>
+          <li><a href="#">Join Us</a></li>
+          <li><a href="#">Sustainability</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <ul>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Contact Us</a></li>
+          <li><a href="#">Careers</a></li>
+          <li><a href="#">News</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <ul>
+          <li><a href="#">Site Map</a></li>
+          <li><a href="#">Our App</a></li>
+          <li><a href="#">Our Sites</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+   <div class="footer-social">
+        <ul class="social-media">
+          <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+          <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+          <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+        <li><a href="#"><i class="fab fa-youtube"></i></a></li> <!-- YouTube icon -->
+
+          <!-- Add more social media icons as needed -->
+        </ul>
+      </div>
+  <div class="footer-logo">
+<a href="#">
+
+    Add logo
+
+</a>
+</div>
+<!-- Footer content -->
+</footer>
+
+</body>
+</html>
